@@ -1,9 +1,4 @@
 ---
-header-includes:
-  - \usepackage[ruled,vlined,linesnumbered]{algorithm2e}
----
-
----
 <h2 align="center">Predictive Exit: Prediction of Fine-Grained Early
 Exits for Computation- and Energy-Efficient
 Inference</h2>
